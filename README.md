@@ -8,7 +8,7 @@ Video explain the code : soon...
 
 ## DrawYourMeshes.cpp
 
-![2022-07-26-16-00-15](https://user-images.githubusercontent.com/109032171/181027154-ad36509a-d883-46e2-8ce5-8b9b2702eba0.gif)
+![Uploading 2022-07-26 16-00-15.gif…]()
 
 With left click you can add points to build what you want.
 To connect 2 points already drawn, press S and select them.
@@ -18,10 +18,11 @@ You can move the structure with your mouse. Only, don't set the point radius val
 
 ## Circle.cpp
 
-![cercle-sans-vecteur](https://user-images.githubusercontent.com/109032171/181027406-e4115a7c-f196-41af-8a5f-2fcd3d77c86b.gif)
+![cercle sans vecteur](https://user-images.githubusercontent.com/109032171/181034549-e27dfc9c-8e1e-4218-a83a-5791eecc2fb3.gif)
+
 ![cerlce_vecteur](https://user-images.githubusercontent.com/109032171/181028712-c84e1ea5-84d7-4998-a5b8-5fb8d3e66d51.gif)
 
-This simulation works with a features added which is the pressure.
+This simulation works with a feature added which is the pressure.
 You can delete the velocity vector easily (read the Circle.cpp and at the end).
 Then, you can add or substrat points (indeed it's not a circle but a n-polygone so you can create a square without diagonal and with pressure).
 You can too modify the size of the circle and circle's points.
