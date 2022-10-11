@@ -1,11 +1,6 @@
 # Soft-Body
 SFML Soft Body. You can draw your own structure easily, read the readme.
 
-## Youtube
-
-My YouTube Channel : https://www.youtube.com/channel/UCcEkxe69YprtYS2dDW7w5-Q
-Video explain the code : soon...
-
 ## DrawYourMeshes.cpp
 
 ![2022-07-26 16-00-15(1)](https://user-images.githubusercontent.com/109032171/181034836-388ad505-d915-4460-b72f-cd8a20113c39.gif)
