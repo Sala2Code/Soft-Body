@@ -1,5 +1,5 @@
 # Soft-Body
-SFML Soft Body. You can draw your own structure easily, read the readme.
+SFML Soft Body. You can draw your own structure easily. There is too a model with another feature : the pressure.
 
 ## DrawYourMeshes.cpp
 
